@@ -1,0 +1,17 @@
+{
+    "name": "zeyada-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kimberly Geswein"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/zeyada-bower.git"
+    },
+    "description": "Zeyada font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
